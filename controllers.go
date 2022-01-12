@@ -14,6 +14,14 @@ import (
 
 const examsFileName = "allExams.json"
 
+var (
+	// available exam periods in order as in the website
+	periods = []string{"08:30", "12:30", "16:00"}
+
+	// URL to be used for scrapping
+	targetURL = "https://stdportal.emu.edu.tr/examlist.asp"
+)
+
 func importExamsHandler(w http.ResponseWriter, r *http.Request) {
 	allExams := scrapExams()
 

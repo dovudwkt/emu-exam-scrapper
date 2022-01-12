@@ -6,16 +6,8 @@ import (
 	"net/http"
 )
 
-var (
-	// available exam periods in order as in the website
-	periods = []string{"08:30", "12:30", "16:00"}
-
-	// URL to be used for scrapping
-	targetURL = "https://stdportal.emu.edu.tr/examlist.asp"
-)
-
 func server() {
-	var port = 3001
+	var port = 3030
 	var addr = fmt.Sprintf(":%d", port)
 
 	http.HandleFunc("/exams/import", importExamsHandler)
