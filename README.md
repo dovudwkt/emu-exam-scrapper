@@ -11,6 +11,6 @@ Example: `http://localhost:3030/exams/search?courses=ITEC122,ITEC114,ITEC397`
 
 <hr>
 
-Application for Unubtu: [emu-exam-scrapper](https://github.com/dovudwkt/emu-exam-scrapper/raw/main/emu-exam-scrapper) 
+Application for Ubuntu: [emu-exam-scrapper](https://github.com/dovudwkt/emu-exam-scrapper/raw/main/emu-exam-scrapper) 
 
 Application for Windows: [emu-exam-scrapper.exe](https://github.com/dovudwkt/emu-exam-scrapper/raw/main/emu-exam-scrapper.exe)
