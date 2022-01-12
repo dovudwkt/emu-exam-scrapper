@@ -32,6 +32,7 @@ func importExamsHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	log.Println("exams imported")
 	reply(w, nil, http.StatusOK, nil)
 }
 
