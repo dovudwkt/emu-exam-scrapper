@@ -10,9 +10,9 @@ import (
 type Exams []exam
 
 type exam struct {
-	Period string
 	Course string
 	Date   string
+	Period string
 }
 
 func (data Exams) Find(courseCodes []string) Exams {
