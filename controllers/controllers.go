@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"regexp"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -15,9 +16,9 @@ import (
 
 const examsFileName = "allExams.json"
 
+var examPeriodRegexp = regexp.MustCompile(`(?m)[P|p]eriod\s*:\s*(\d+:\d+)`)
+
 var (
-	// available exam periods in order as in the website
-	periods = []string{"08:30", "10:30", "12:30", "14:30", "16:30"}
 
 	// URL to be used for scrapping
 	targetURL = "https://stdportal.emu.edu.tr/examlist.asp"
@@ -65,11 +66,22 @@ func SearchExamsHandler(w http.ResponseWriter, r *http.Request) {
 func scrapExams() entity.Exams {
 	data := entity.Exams{}
 	dates := []string{}
+	periods := []string{}
 
 	doc, err := parseURL(targetURL)
 	if err != nil {
 		fmt.Println(err)
 	}
+
+	// Identify the exam periods (hours).
+	doc.Find("b font").Each(func(i int, s *goquery.Selection) {
+		period := examPeriodRegexp.FindStringSubmatch(s.Text())
+		if len(period) > 0 {
+			periods = append(periods, period[1])
+		}
+	})
+
+	fmt.Println(periods)
 
 	doc.Find("table").Each(func(tableIdx int, tableNode *goquery.Selection) {
 		if tableIdx == 0 {
