@@ -5,14 +5,38 @@ import (
 	"errors"
 	"fmt"
 	"io/ioutil"
+	"sort"
+	"time"
 )
 
 type Exams []Exam
 
 type Exam struct {
 	Course string
+	Date   time.Time
+}
+
+type ResponseEl struct {
+	Course string
 	Date   string
-	Period string
+	Time   string
+}
+
+type Response []ResponseEl
+
+func (data Exams) ToResponse() Response {
+	resp := make(Response, len(data))
+	for i, exam := range data {
+
+		date := exam.Date.Format("02 January 2006")
+		period := exam.Date.Format("15:04")
+		resp[i] = ResponseEl{
+			Course: exam.Course,
+			Date:   date,
+			Time:   period,
+		}
+	}
+	return resp
 }
 
 func (data Exams) Find(courseCodes []string) Exams {
@@ -33,7 +57,7 @@ func (data Exams) Find(courseCodes []string) Exams {
 		resIDx++
 	}
 
-	return result
+	return result[:resIDx]
 }
 
 func (data Exams) SaveJSON(fileName string) error {
@@ -51,10 +75,28 @@ func (data Exams) SaveJSON(fileName string) error {
 
 func (data Exams) PrintExams() {
 	for _, e := range data {
-		fmt.Printf("%s - %s - %s\n", e.Course, e.Date, e.Period)
+		fmt.Printf("%s - %s\n", e.Course, e.Date)
 	}
 }
 
 func (data Exams) ToJSON() ([]byte, error) {
 	return json.Marshal(data)
 }
+
+func (data Response) ToJSON() ([]byte, error) {
+	return json.Marshal(data)
+}
+
+func (data Exams) SortByDate(asc bool) {
+	if asc {
+		sort.Sort(byDate(data))
+	} else {
+		sort.Sort(sort.Reverse(byDate(data)))
+	}
+}
+
+type byDate Exams
+
+func (f byDate) Len() int           { return len(f) }
+func (f byDate) Swap(i, j int)      { f[i], f[j] = f[j], f[i] }
+func (f byDate) Less(i, j int) bool { return f[i].Date.Before(f[j].Date) }

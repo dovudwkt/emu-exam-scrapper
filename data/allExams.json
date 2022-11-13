@@ -1,7702 +1,6162 @@
 [
  {
   "Course": "BMED481",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "BOTE211",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "ACCT202",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "AHSS101",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "BDEM219",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "ACTS205",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "ARCH385",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "AHSS211",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "ADLT207",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "ARCH355",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "ARCH347",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "ACTS401",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "BMET252",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "CIVL482",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "ADSG117",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "BMED483",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "BIYO105",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "BANK303",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "BDEM309",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "ARCH373",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "BIOL315",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "BTBS213",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "ARCH416",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "ARCH226",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "BTBS103",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "ECON405",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "BDEM307",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "BMET301",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "BTEP201",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "BESD212",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "BIOL417",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "BESD401",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "BMED327",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "CMPR203",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "BIOL213",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "CHEM243",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "BTBS212",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "ELTE217",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "BLGM419",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "CHEM254",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "CIVL372",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "CIVL353",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "CIVL261",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "CIVL343",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "BTBS309",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "ECON455",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "BMED434",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "CIVL394",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "BTEP103",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "FINA301",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "CIVL332",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "CIVL493",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "CMPR106",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "CMPE108",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "CIVL354",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "CMSE423",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "BTEP101",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "EGIT321",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "CAVI217",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "CMSE353",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "BTEP203",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "FINA430",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "CMPE414",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "CMPE112",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "CMPR207",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "COMP485",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "CMPR103",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "COMM312",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "CATV461",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "ENGL301",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "CHEM211",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "ECON201",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "CMPE410",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "GAST207",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "CULA207",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "CMPE424",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "EDUC113",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "DENT196",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "COMP311",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "ECON231",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "CIVL222",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "FLDE117",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "CMSE491",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "FREN102",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "CMSE318",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "HIRE303",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "DENT128",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "CMPR204",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "EENG331",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "EDUC432",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "DENT104",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "ECON431",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "CMPE428",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "FZTR205",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "COMP211",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "FZTR152",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "ECON403",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "HMSR437",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "ECON315",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "CMSE112",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "EGIT315",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "EDUC462",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "EETE233",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "EENG112",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "CMSE428",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "GERM111",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "CULA105",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "GAST462",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "EETE101",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "IENG431",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "EETE231",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "CMSE424",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "EKON203",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "EGIT442",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "FARC142",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "EENG245",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "COMM207",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "INAR349",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "ECON317",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "HKUK257",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "ELTE107",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "INSA482",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "EGIT421",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "EGIT452",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "ENGL155",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "ENGL213",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "FINA302",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "ELTE307",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "EGIT422",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "ITEC115",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "ECON331",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "IENG409",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "ELTE304",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "MANE431",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "EKON111",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "ELTE113",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "FINA362",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "FINT301",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "FZTR201",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "ELTE317",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "ELTE401",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "ITEC190",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "EDUC411",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "IENG450",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "ELTE311",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "MGMT424",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "FINT302",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "FZTR413",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "FREN112",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "FZTR153",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "GAST429",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "FINA406",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "ELTE417",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "ITEC213",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "EDUC413",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "IMEG460",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "ENGL203",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "OOEG209",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "FZTR111",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "FZTT201",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "FZTR322",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "FZTR221",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "GERM102",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "FZTR213",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "ENGL113",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MATH106",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "FARC113",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "INSA394",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "FINA415",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PADM301",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "FZTR203",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "GAST305",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "GAST211",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "HKUK391",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "HIRE342",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "FZTR301",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "ENGL255",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MATH212",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "GAST404",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "ITAS333",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "FRCH321",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PHAR402",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "GAST403",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "HKUK331",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "HKAD213",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "IENG385",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "HKAD205",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "HKUK132",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "FINT308",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MDCN258",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "GAST463",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "ITEC202",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "GPSC337",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PHAR495",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "HKAD307",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "IENG461",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "HKUK223",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "IMEG313",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "HKUK103",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "HKUK314",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "GERM101",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MGMT477",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "HKAD305",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "MECT361",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "HKAD201",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PHYT405",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "HKUK310",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "IMEG211",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "HKUK338",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "INSA353",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "HMSR422",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "IMEG370",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "HIRE307",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MUHA203",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "HKUK328",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "MGMT472",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "IMEG311",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PRAD237",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "IENG323",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "INSA493",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "IENG313",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "ITEC316",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "IENG332",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "INSA343",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "HKAD303",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "TOMA215",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "HMSR411",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "OZEG413",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "INSA233",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PSIR303",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "INSA332",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "ITEC315",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "ILET201",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "MANE385",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "INSA261",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "IYAB107",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "IENG301",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "TREG113",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "IENG263",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PHAR310",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MATE153",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "RPDA301",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "IYAB101",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "MANE461",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "INFE242",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "MATH134",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "ITAS142",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "MATH155",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "IENG484",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "YONT211",
-  "Date": "01 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-01T08:30:00Z"
  },
  {
   "Course": "ITAS244",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PHAR455",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MATE229",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "RPDA405",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "MANE323",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "MATE167",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "INSA372",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "MGMT211",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "ITEC103",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "MUHA202",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "INAR377",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "ITAS349",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PHYT207",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MATH103",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "SAGY101",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "MATE125",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "MATH133",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "ITEC212",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "MGMT339",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "KIMY103",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "OOEG218",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "INSA222",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "ITEC230",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PHYT401",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MATH228",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "THRM418",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "MATE241",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "MDCN254",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "ITEC224",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "OZEG313",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "MANE332",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "PAST201",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "ITAS111",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MATE311",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PSIR305",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MDCN243",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "TRAN216",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "MDCN247",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "MENG286",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "ITEK232",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "PHAR407",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "MATH252",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "PHAR404",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "ITEC421",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MATH337",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PSKL380",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MENG233",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "YONT303",
-  "Date": "22 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-22T08:30:00Z"
  },
  {
   "Course": "OOEG408",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "MRKT409",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "MANE313",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "PHYT101",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "MDCN241",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "PHAR424",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "MANE301",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MENG190",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "SPRB301",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MGMT414",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PHAR308",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "MUEG362",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "MATE228",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "PSKL109",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "NMEJ209",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "PHYT303",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "MANE484",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MENG332",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "TMAN416",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MGMT416",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PHAR309",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "MUHA421",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "MDCN245",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "PSKL435",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "PHAR312",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "RPDA203",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "MATE332",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "MUEG201",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "TURK233",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MUEG334",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PHYT309",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "MUZK113",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "NUTD131",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "PSYC435",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "PHAR401",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "SCI 111",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "MDCN144",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "OOEG103",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "YONT414",
-  "Date": "03 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-03T08:30:00Z"
  },
  {
   "Course": "MUZK217",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "PSIR401",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "PHAR491",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "RADY103",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "RECM115",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "PHYT307",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "SOEG322",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "MGMT401",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "OZEG308",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PHAR307",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "RADY101",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "PHYT403",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "RPDA201",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "TMAN413",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "RPDA309",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "TOMA116",
-  "Date": "29 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-29T08:30:00Z"
  },
  {
   "Course": "OZEG101",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "PHAR306",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PHAR409",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "SOEG321",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "PSIR407",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "SOCI105",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "TRAN213",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "SAGY403",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "PHAR496",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "PHAR425",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PHYT301",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "SOSY113",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "SOEG413",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "SOEG403",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "YMGA323",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "SPRB331",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "PHYT407",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "PRAD101",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "PRAD206",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "SPRB335",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "TDYN221",
-  "Date": "24 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-24T08:30:00Z"
  },
  {
   "Course": "STAT201",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "YONT324",
-  "Date": "26 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-26T08:30:00Z"
  },
  {
   "Course": "SVTV421",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "PSIR309",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "PSIR301",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "SBSB181",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "SVTV321",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "THRM214",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "TDYN225",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "SPRB305",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "SAGY301",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "SOEG222",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "TDYN223",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "THRM311",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "TRAN315",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "TACC315",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "SOEG101",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "SVTV361",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "TECN415",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "TRAN311",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "YONT102",
-  "Date": "28 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-28T08:30:00Z"
  },
  {
   "Course": "TOMA113",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "SPRB457",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "TENG217",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "TGER219",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "TREG203",
-  "Date": "25 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-25T08:30:00Z"
  },
  {
   "Course": "TREG115",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "TMAN317",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "TGER117",
-  "Date": "21 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-21T08:30:00Z"
  },
  {
   "Course": "TMKT313",
-  "Date": "23 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-23T08:30:00Z"
  },
  {
   "Course": "VACD334",
-  "Date": "30 November 2022",
-  "Period": "08:30"
+  "Date": "2022-11-30T08:30:00Z"
  },
  {
   "Course": "TRAN303",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "TREG244",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "VACD253",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "YMGA203",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "YONT326",
-  "Date": "02 December 2022",
-  "Period": "08:30"
+  "Date": "2022-12-02T08:30:00Z"
  },
  {
   "Course": "AMLH111",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "AMLH113",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "ACCT421",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "ACTS302",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "AMLH211",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "ACCT207",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "ADSG113",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "ADSG115",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "ADSG109",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "BIOL116",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "ANES222",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "ARCH225",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "AMLH215",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "BOTE218",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "ADSG215",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "BESD424",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "BYTM117",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "ARCH236",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "BMET251",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "ARCH114",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "AHSS151",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "BLGM231",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "ARCH305",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "BLGM223",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "ANES223",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "BTBS229",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "ANES205",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "BIOL211",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "BYTM223",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "BIOL434",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "BOTE450",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "BIOL206",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "ARCH382",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "BMET253",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "ARCH483",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "CMPE223",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "BDEM113",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "CATV201",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "BTBS265",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "BOTE412",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "CATV101",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "BLGM471",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "BTEP243",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "BTEP107",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "BDEM311",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "BTEP205",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "BANK307",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "EENG225",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "BDEM303",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "DYLZ109",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "CIVL455",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "CAVI211",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "CAVI115",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "CATV361",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "CHEM101",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "CAVI101",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "CMPR201",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "BTEP301",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "BDEM209",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "FZTR411",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "BDTE111",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "ECON206",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "EENG224",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "CIVL284",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "COMM201",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "CMPE471",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "CITE103",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "CHEM103",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "COMP351",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "CATV421",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "BIOL420",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "GERM112",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "BIOL107",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "FZTR217",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "ELTE312",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "CULA107",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "CULA103",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "CMSE201",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "DENT242",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "CIVL471",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "EENG457",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "CAVI103",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "BTBS327",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "GERM201",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "BOTE411",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "FZTT213",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "ENGL181",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "CULA301",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "DENT241",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "CMSE471",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "ECON101",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "CMPR202",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "EKON112",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "CMPE231",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "BTEP202",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "HKUK422",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "BTEP309",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "GAST454",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "ENGL191",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "DENT102",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "EKON122",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "EDUC211",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "EDUC411",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "COMP183",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "ELTE203",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "CMSE231",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "BTEP305",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "ITEC456",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "CITE105",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "HKAD215",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "HKUK423",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "ELTE301",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "ELTE418",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "EENG115",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "EDUC413",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "CULA209",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "ENGL182",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "CMSE346",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "CHEM120",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "MGMT201",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "COMP483",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "HKUK367",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "HLTS241",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "ELTE313",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "FIZK103",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "FZTR103",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "EETE111",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "DYLZ205",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "ENGL192",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "COMM322",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "CIVL344",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "MUZK309",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "EETE269",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "ITEC310",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "MATE221",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "FIZK109",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "HKUK445",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "HIRE206",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "EGIT482",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "EENG350",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "FZTR230",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "COMP302",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "CMPR101",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "MUZK401",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "EKON121",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "MATH322",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "MATE313",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "HIRE430",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "HKUK446",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "HKUK271",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "GAST437",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "ENGL172",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "GPSC333",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "FARC104",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "CMPR206",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "MUZK402",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "HIRE237",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "MUEG205",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "MATH243",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "HKUK471",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "HMSR305",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "HKUK416",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "HKUK405",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "FZTR222",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "HKUK467",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "FINA462",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "EDUC311",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "NUTD223",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "HKUK411",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "MUHA201",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "MENG353",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "HMSR205",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "ILET208",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "MENG201",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "HKUK406",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "GAST402",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "HKUK468",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "FRCH421",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "EENG226",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "OOEG215",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "MATH150",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "NMEJ301",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "MUZK205",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "INSA284",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "INAR225",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "MRKT301",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "ITAS407",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "HKUK421",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "HMSR403",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "GAST105",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "EENG428",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "OOEG411",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "MATH151",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "NURS207",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "NURS301",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "MATH135",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "MATE107",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "MUEG443",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "ITEC323",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "ILET321",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "ITEC309",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "HKUK424",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "ENGL153",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "OZEG213",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "MDCN208",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "PHAR456",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "OOEG105",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "MDCN207",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "MATE421",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "OZEG211",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "MATE191",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "INAR211",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "KIMY109",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "HMSR210",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "FRCH131",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "PHAR411",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "MGMT305",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "PHYT203",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "PRAD233",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "MGMT101",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "MATH111",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "PHAR311",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "MDCN127",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "INSA471",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "MATE211",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "INAR403",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "FZTR265",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "PSKL493",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "NUTD221",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "PHYT406",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "RPDA352",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "MUZK310",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "MATH171",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "PHAR406",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "MENG303",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "ITAS377",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "MENG331",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "ITAS348",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "FZTR407",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "PSYC493",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "PHAR482",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "PRAD409",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "TOMA220",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "PHAR458",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "MDCN129",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "PHYT311",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "NMEJ364",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "ITEC255",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "MUEG306",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "ITAS403",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "GAST203",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "SOEG216",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "PHYT205",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "PSKL213",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "TREG323",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "PHYS109",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "MENG376",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "PSIR311",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "PHAR418",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "ITEC314",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "RPDA205",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "MUEG303",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "HIRE103",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "SOEG303",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "SAGY303",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "PSYC213",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "TURK115",
-  "Date": "23 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-23T10:30:00Z"
  },
  {
   "Course": "PRAD303",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "MGMT334",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "RPDA432",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "PSKL221",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "MATH172",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "SBEG407",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "OOEG213",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "HKAD107",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TREG419",
-  "Date": "03 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-03T10:30:00Z"
  },
  {
   "Course": "SBSB173",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "RPDA406",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "PSYC355",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "MUZK215",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "SBSB261",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "PSYC221",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "MDCN256",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "SPRB434",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "PHAR301",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "HKUK401",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "SOCI203",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "TREG325",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "SBSB118",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "NURS433",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "SPRB433",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "SOEG315",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "NMEJ205",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "TDYN123",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "PHAR477",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "HLTS103",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "SPRB401",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "YMGA347",
-  "Date": "22 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-22T10:30:00Z"
  },
  {
   "Course": "SPRB248",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "PHAR459",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "TOMA112",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "SPRB404",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "PAST103",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "TREG240",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "PHYS352",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "INSA344",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TDYN219",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "SPRB255",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "PHYS101",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "TREG119",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "TENG218",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "PHAR454",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "TURK312",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "PSIR101",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "ITEC113",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TREG205",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "STAT221",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "RPDA404",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "TREG327",
-  "Date": "26 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-26T10:30:00Z"
  },
  {
   "Course": "TGER118",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "PSYC151",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "TURK411",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "SVTV201",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "ITEC327",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TURK220",
-  "Date": "21 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-21T10:30:00Z"
  },
  {
   "Course": "SVTV101",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "SPRB444",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "TURK203",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "RDYT201",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "YONT305",
-  "Date": "30 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-30T10:30:00Z"
  },
  {
   "Course": "THRM312",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "MATH105",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "THRM411",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "TDYN215",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "VACD244",
-  "Date": "28 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-28T10:30:00Z"
  },
  {
   "Course": "THRM412",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "YONT424",
-  "Date": "01 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-01T10:30:00Z"
  },
  {
   "Course": "MDCN140",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TURK104",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "TOMA111",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "TRAN137",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "MUEG405",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "VACD223",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "TRAN440",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "TREG201",
-  "Date": "29 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-29T10:30:00Z"
  },
  {
   "Course": "NUTD313",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "VACD413",
-  "Date": "24 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-24T10:30:00Z"
  },
  {
   "Course": "TREG253",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "OZEG204",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TURK417",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "PHAR204",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "YMGA107",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "PHAR414",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "YONT416",
-  "Date": "25 November 2022",
-  "Period": "10:30"
+  "Date": "2022-11-25T10:30:00Z"
  },
  {
   "Course": "RECM111",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "SBSB101",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "SGBL105",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TDYN211",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TOMA115",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TURK118",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TURK235",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "TURK315",
-  "Date": "02 December 2022",
-  "Period": "10:30"
+  "Date": "2022-12-02T10:30:00Z"
  },
  {
   "Course": "BESD303",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "ADLT203",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "ADLT103",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "ADSG211",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "ADLT201",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "HKUK497",
-  "Date": "26 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-26T12:30:00Z"
  },
  {
   "Course": "AGAD101",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "ANES221",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "ADLT107",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "ACCT203",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "ARCH235",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "COMM321",
-  "Date": "03 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-03T12:30:00Z"
  },
  {
   "Course": "BIOL413",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "BANK404",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "ADLT213",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "AHSS157",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "ADSG213",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "ARCH281",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "ARCH328",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "ARCH246",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "ADLT209",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "BANK201",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "EDUC492",
-  "Date": "03 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-03T12:30:00Z"
  },
  {
   "Course": "BLGM321",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "BIOL411",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "BESD203",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "BIOL111",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "ARCH213",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "ARCH449",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "BANK408",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "BDEM111",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "ARCH329",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "BDTE211",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "HKUK325",
-  "Date": "03 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-03T12:30:00Z"
  },
  {
   "Course": "CIVL361",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "BYTM228",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "BTBS255",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "BTBS315",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "BDEM315",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "BOTE132",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "BIOL412",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "BIOL203",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "ARCH419",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "BLGM353",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "CMPE321",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "DENT194",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "COGR407",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "CITE454",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "BIOL121",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "BTBS215",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "BLGM211",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "CHEM337",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "BLGM107",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "CMPE353",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "CMPR209",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "EDUC406",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "DENT232",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "CIVL467",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "BTEP303",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "BTEP105",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "BTEP307",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "CIVL473",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "CIVL283",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "CMSE354",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "CULA205",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "EGIT462",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "EENG223",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "DYLZ107",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "CULA201",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "CHEM112",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "CIVL211",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "CMPE242",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "CIVL331",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "COMM106",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "EETE263",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "EKON441",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "EGIT313",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "EENG342",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "DENT262",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "COMM101",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "CMPE211",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "DENT272",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "CMPE107",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "ECON203",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "ELTE115",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "ELET311",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "ELTE219",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "ELTE450",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "EET 268",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "CULA203",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "CMSE211",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "DYLZ207",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "CMPE110",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "EDUC219",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "FELS403",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "ENGL211",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "ELTE415",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "FINA306",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "ELET317",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "DENT231",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "COMP403",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "EENG341",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "CMSE107",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "EENG320",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "FINA461",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "GAST301",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "ENGL183",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "FINA416",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "ELTE211",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "EENG420",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "EENG451",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "EETE143",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "EENG360",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "EETE113",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "FZTR105",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "GPSC331",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "ENGL185",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "FZTR412",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "ELTE305",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "EGIT216",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "ELET315",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "ELTE215",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "EETE261",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "FZTR143",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "HMSR303",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "HKAD101",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "ENGL352",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "HIRE351",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "ELTE315",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "ELTE213",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "ENGL171",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "ENGL123",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "ELET313",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "GAST432",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "HMSR409",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "HKUK300",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "FLDE118",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "HKAD203",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "FINA262",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "FZTR307",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "FINA319",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "HIRE101",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "FZTR160",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "HKAD211",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "INSA361",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "HMSR433",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "FRCH231",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "HKUK133",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "FINA315",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "GAST424",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "FZTR414",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "HKAD209",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "GAST303",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "HKUK451",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "ITEC243",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "IYAB213",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "FZTR227",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "IYAB109",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "FIZK105",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "GAST464",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "GAST455",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "HKUK131",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "GPSC433",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "HMSR163",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "MATE121",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "MATE373",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "GAST205",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "MATH373",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "GPSC339",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "HKAD301",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "GPSC431",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "ILET459",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "GPSC470",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "IENG438",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "MATE154",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "MATH211",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "GPSC442",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "MDCN142",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "GPSC416",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "HKUK272",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "HKAD217",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "INSA473",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "HIRE233",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "INAR231",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "MATH104",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "MGMT260",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "HIRE405",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "MGMT202",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "HKAD103",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "HKUK355",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "HKUK258",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "ITAS211",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "HIRE301",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "MATE163",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "MDCN101",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "MUZK224",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "ITEC186",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "MUZK213",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "HMSR203",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "HMSR407",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "INAR328",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "ITEK117",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "INSA283",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "MATH163",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "MDCN257",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "MUZK304",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "ITEK113",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "NUTD111",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "IENG356",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "ITAS328",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "INAR410",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "MDCN139",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "INSA331",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "MENG245",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "MENG244",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "NURS401",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "MATE151",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "OZEG205",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "IENG419",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "ITEC317",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "INSA211",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "MGMT322",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "ITAS231",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "MENG246",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "MUEG333",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "NUTD205",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "MATH236",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "PHAR304",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "ITAS454",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "MATE135",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "ITAS410",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "MUEG206",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "ITEC420",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "MGMT405",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "NURS335",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "OZEG311",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "MDCN107",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "PHYS209",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "ITEC107",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "MATH209",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "ITEC112",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "PHAR403",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "MATH324",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "NMEJ203",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "PHAR478",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "PHAR206",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "MUEG406",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "PSYC109",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "MATE133",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "MATH412",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "ITEK213",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "PHYS103",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "MDCN217",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "NURS201",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "PHYS215",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "PHAR303",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "NMEJ321",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "RPDA382",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "MATE213",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "MDCN133",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "MENG222",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "PSKL447",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "MENG345",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "OZEG411",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "PRAD422",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "PHYS483",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "NMEJ490",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "SAGY304",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "MDCN103",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "MENG364",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "MGMT102",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "PSYC447",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "NURS203",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "PSKL475",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "PSIR307",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "RDYT203",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "PHAR408",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "SAGY401",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "MDCN108",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "NMEJ482",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "PSKL340",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "RADY203",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "NUTD121",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "PSKO105",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "PZRL301",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "SOEG307",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "PHYT402",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "SPRB253",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "MENG442",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "NURS403",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "PSYC340",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "TDYN220",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "NUTD141",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "PSYC475",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "RPDA403",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "SPRB303",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "PRAD418",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "SVTV461",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "MGMT171",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "PHAR305",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "PZRL409",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "TDYN227",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "OZEG201",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "RPDA303",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "SBSB116",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "SVTV381",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "PROT103",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "SVTV462",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "MGMT409",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "PHYS111",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "TDYN217",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "TRAN205",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "PSIR409",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "RPDA411",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "SOEG411",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "TGER220",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "PSKL100",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "TURK111",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "NUTD305",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "PHYT324",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "TREG433",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "TURK213",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "RPDA305",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "SGBL101",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "THRM406",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "TURK319",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "RADY104",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "TURK418",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "OOEG211",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "PSIR405",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "TURK313",
-  "Date": "29 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-29T12:30:00Z"
  },
  {
   "Course": "TURK412",
-  "Date": "30 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-30T12:30:00Z"
  },
  {
   "Course": "SPRB307",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "TDYN125",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "TOMA401",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "YONT472",
-  "Date": "22 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-22T12:30:00Z"
  },
  {
   "Course": "SCIE223",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "YONT101",
-  "Date": "24 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-24T12:30:00Z"
  },
  {
   "Course": "PHYT312",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "RADY110",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "VACD104",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "TDYN317",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "VACD101",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "SOEG305",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "PRAD205",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "RPDA416",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "YMGA105",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "TOMA213",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "VACD225",
-  "Date": "21 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-21T12:30:00Z"
  },
  {
   "Course": "TRAN427",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "PSKL342",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "SAGY305",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "YONT171",
-  "Date": "01 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-01T12:30:00Z"
  },
  {
   "Course": "TURK311",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "TREG117",
-  "Date": "23 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-23T12:30:00Z"
  },
  {
   "Course": "PSYC111",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "SPRB432",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "ULUS101",
-  "Date": "02 December 2022",
-  "Period": "12:30"
+  "Date": "2022-12-02T12:30:00Z"
  },
  {
   "Course": "PSYC342",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "THRM420",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "RPDA307",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "TRAN414",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "SPRB310",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "TURK211",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "STAT151",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "YMGA213",
-  "Date": "28 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-28T12:30:00Z"
  },
  {
   "Course": "TRAN135",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "TREG348",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "TURK215",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "TURK413",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "TURK416",
-  "Date": "25 November 2022",
-  "Period": "12:30"
+  "Date": "2022-11-25T12:30:00Z"
  },
  {
   "Course": "BDTE219",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "BESD307",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "ACCT201",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "ADLT205",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "BESD131",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "ADLT105",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "ARCH244",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "BDEM211",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "AGAD417",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "BESD103",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "BIOL108",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "BMET111",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "BDEM203",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "ANES121",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "CAVI203",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "BANK401",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "ARCH337",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "BESD101",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "ARCH252",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "BESD301",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "CIVL437",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "CHEM248",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "COMP374",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "BDEM105",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "CHEM231",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "BDTE217",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "BESD305",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "BTBS113",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "BLGM325",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "BIOL119",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "COGR103",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "HKUK101",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "DENT261",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "BIOL311",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "CMPR105",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "BIOL105",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "CHEM339",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "COMP411",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "BMET303",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "DENT271",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "ELTE419",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "MATH231",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "EENG410",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "BYTM111",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "CMSE473",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "BTBS150",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "EETE271",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "CULA101",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "CAVI209",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "EDUC307",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "FZTR229",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "MDCN253",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "EGIT316",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "CATV381",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "EET 265",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "CHEM111",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "ELTE117",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "ECON202",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "CHEM246",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "FZTR225",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "GAST101",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "MUEG221",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "ELET319",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "CHEM119",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "ENGL151",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "CHEM232",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "ENGL453",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "EENG212",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "CMPE325",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "FZTR312",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "HIRE409",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "NUTD309",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "ELTE119",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "CIVL103",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "FIZK104",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "CIVL451",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "FINA102",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "EGIT492",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "COMP285",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "HKUK211",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "HKAD313",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "PSYC380",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "FZTR403",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "ECON321",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "GAST401",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "DENT103",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "FZTR223",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "ELTE212",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "EDUC313",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "ITAS104",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "HKUK233",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "SAGY405",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "FZTT215",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "EGIT472",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "HKUK281",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "ECON102",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "GAST103",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "FREN101",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "EDUC318",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "ITEC102",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "IENG314",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "TARH101",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "GPSC335",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "GAST405",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "ITAS225",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "ECON441",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "HKUK207",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "FREN211",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "EDUC422",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "MATE215",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "ITEC415",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "TUSL181",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "HKAD207",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "GPSC472",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "ITEC161",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "EGIT101",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "IENG441",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "GAST201",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "EENG232",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "MUZK105",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "MANE314",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "VACD201",
-  "Date": "22 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-22T14:30:00Z"
  },
  {
   "Course": "HKUK203",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "HIRE299",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "ITEK215",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "EKON331",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "IMEG415",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "HKAD109",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "EGIT219",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "MUZK203",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "MATH152",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "ILET108",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "HMSR431",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "MATH167",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "FZTR114",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "MANE441",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "HMSR405",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "EGIT418",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "OOEG220",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "MATH203",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "IMEG413",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "IENG372",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "MATH191",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "FZTR151",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "MGMT308",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "ILET433",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "ENGL452",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "OOEG317",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "MATH494",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "ITEC259",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "ITEC320",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "MECT375",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "IENG212",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "MUEG403",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "IYAB215",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "FARC103",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "PHAR405",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "MDCN244",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "MATH206",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "MANE372",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "MENG375",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "INAR348",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "NUTD103",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "MATE127",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "FZTR317",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "PHAR457",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "MENG422",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "MATH241",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "MATE117",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "MGMT303",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "INSA451",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "NUTD315",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "MENG104",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "ILET113",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "SOEG213",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "MRKT402",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "MECT190",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "MATH131",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "MUZK307",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "MANE212",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "PAST101",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "MUZK103",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "ITAS103",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "SPRB410",
-  "Date": "02 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-02T14:30:00Z"
  },
  {
   "Course": "MUEG422",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "NUTD317",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "MDCN271",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "MUZK308",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "MDCN131",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "PHYS222",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "MUZK108",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "ITEC105",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "NMEJ103",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "PSIR203",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "MUEG222",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "MUZK407",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "PSYC455",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "RADY105",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "NURS303",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "NMEJ323",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "NUTD417",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "PSKL216",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "NMEJ105",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "MUZK408",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "SBSB203",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "SAGY407",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "NUTD225",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "OOEG315",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "OZEG305",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "PSYC216",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "RDYT212",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "NMEJ455",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "TDYN119",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "SCIE130",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "OZEG203",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "PHYS119",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "PHAR423",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "SPRB201",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "SPRB101",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "OZEG303",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "TDYN311",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "SPRB403",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "PRAD413",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "PSKL331",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "PHIL403",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "TURK199",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "TDYN319",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "PHAR302",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "TRAN123",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "STAT202",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "PROT205",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "PSYC331",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "PROT101",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "TURK337",
-  "Date": "23 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-23T14:30:00Z"
  },
  {
   "Course": "TOMA114",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "PHYS102",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "TREG401",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "THRM216",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "SAGY307",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "RADY205",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "PSKL107",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "TURK415",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "PHYS381",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "TREG411",
-  "Date": "28 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-28T14:30:00Z"
  },
  {
   "Course": "VACD424",
-  "Date": "29 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-29T14:30:00Z"
  },
  {
   "Course": "SPRB103",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "RDYT210",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "PSYC107",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "YONT202",
-  "Date": "24 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-24T14:30:00Z"
  },
  {
   "Course": "SBEG409",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "SPRB447",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "TDYN313",
-  "Date": "01 December 2022",
-  "Period": "14:30"
+  "Date": "2022-12-01T14:30:00Z"
  },
  {
   "Course": "PSYC108",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "SPRB203",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "THRM414",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "RUSS211",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "VACD311",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "YONT308",
-  "Date": "30 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-30T14:30:00Z"
  },
  {
   "Course": "SPRB107",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "YONT322",
-  "Date": "25 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-25T14:30:00Z"
  },
  {
   "Course": "TDYN111",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "TURK101",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "TURK121",
-  "Date": "21 November 2022",
-  "Period": "14:30"
+  "Date": "2022-11-21T14:30:00Z"
  },
  {
   "Course": "ADLT101",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "CHEM247",
-  "Date": "22 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-22T16:30:00Z"
  },
  {
   "Course": "BTBS149",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "ARCH312",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "ARCH311",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "BLGM371",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "AHSS204",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "ARCH348",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "BDEM215",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "ADLT211",
-  "Date": "02 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-02T16:30:00Z"
  },
  {
   "Course": "ADSG111",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "COGR108",
-  "Date": "22 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-22T16:30:00Z"
  },
  {
   "Course": "BTBS161",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "CITE211",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "BESD201",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "CMPE371",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "BIOL124",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "CHEM105",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "BIOL415",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "AHSS114",
-  "Date": "02 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-02T16:30:00Z"
  },
  {
   "Course": "CMPR102",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "EGIP111",
-  "Date": "22 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-22T16:30:00Z"
  },
  {
   "Course": "EGIP101",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "EGIP102",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "BIYO206",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "CMPR108",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "BLGM455",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "EGIP113",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "CMPR107",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "CMPR104",
-  "Date": "02 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-02T16:30:00Z"
  },
  {
   "Course": "COMM208",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "HIST280",
-  "Date": "22 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-22T16:30:00Z"
  },
  {
   "Course": "EGIT102",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "EGIP117",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "CMPR210",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "CMSE371",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "CMPE455",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "EGIP115",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "EDUC452",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "FINA308",
-  "Date": "02 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-02T16:30:00Z"
  },
  {
   "Course": "EENG467",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "IENG355",
-  "Date": "22 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-22T16:30:00Z"
  },
  {
   "Course": "EGIT416",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "EGIT211",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "ENGL256",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "EDUC317",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "EGIT412",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "ENGL117",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "ENGL106",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "ITEC229",
-  "Date": "02 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-02T16:30:00Z"
  },
  {
   "Course": "EGIT106",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "NMEJ361",
-  "Date": "22 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-22T16:30:00Z"
  },
  {
   "Course": "EGIT419",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "EGIT432",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "FZTR315",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "EGIP105",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "ENGL105",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "FZTR145",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "FINA325",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "SBEG203",
-  "Date": "02 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-02T16:30:00Z"
  },
  {
   "Course": "FZTR305",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "OZEG207",
-  "Date": "22 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-22T16:30:00Z"
  },
  {
   "Course": "ENGL353",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "ENGL107",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "HKUK444",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "FZTR110",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "FREN111",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "FZTR326",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "FZTR116",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "SBSB115",
-  "Date": "02 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-02T16:30:00Z"
  },
  {
   "Course": "HKUK317",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "RUSS111",
-  "Date": "22 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-22T16:30:00Z"
  },
  {
   "Course": "HKUK376",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "HKUK301",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "ITEC413",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "HKUK311",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "HKUK350",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "HKUK303",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "HKUK349",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "HLTS143",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "SBEG211",
-  "Date": "22 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-22T16:30:00Z"
  },
  {
   "Course": "ITEC442",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "IENG420",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "OOEG311",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "ITEC215",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "HMSR307",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "ISTA201",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "INFE221",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "ITEC114",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "MENG203",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "ITEC185",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "OOEG409",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "MECT444",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "IENG112",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "OOEG313",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "ITEC122",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "MATH207",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "MRKT405",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "MRKT318",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "PHYT305",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "MENG231",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "MANE112",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "PHAR412",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "PRAD301",
-  "Date": "01 December 2022",
-  "Period": "16:30"
+  "Date": "2022-12-01T16:30:00Z"
  },
  {
   "Course": "OZEG103",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "PHYT201",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "NMEJ213",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "SCIE225",
-  "Date": "25 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-25T16:30:00Z"
  },
  {
   "Course": "NUTD227",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "PRAD428",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "PHYT211",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "PDGJ120",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "SGBL103",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "NURS205",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "OZEG409",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "PSIR205",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "SOSY203",
-  "Date": "30 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-30T16:30:00Z"
  },
  {
   "Course": "PSIR201",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "YDBS117",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "PHAR410",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "PAST203",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "VACD103",
-  "Date": "29 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-29T16:30:00Z"
  },
  {
   "Course": "RPDA462",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "YONT260",
-  "Date": "23 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-23T16:30:00Z"
  },
  {
   "Course": "PSIR104",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "TBIL227",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "SBSB182",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "PSKL355",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "YONT405",
-  "Date": "28 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-28T16:30:00Z"
  },
  {
   "Course": "TBIL230",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "RADY201",
-  "Date": "24 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-24T16:30:00Z"
  },
  {
   "Course": "TDYN315",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "YMGA103",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  },
  {
   "Course": "YONT401",
-  "Date": "21 November 2022",
-  "Period": "16:30"
+  "Date": "2022-11-21T16:30:00Z"
  }
 ]

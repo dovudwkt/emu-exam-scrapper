@@ -19,6 +19,7 @@ import (
 const examsFileName = "data/allExams.json"
 
 var examPeriodRegexp = regexp.MustCompile(`(?m)[P|p]eriod\s*:\s*(\d+:\d+)`)
+var dateLayout = "02 January 2006 15:04"
 
 // URL to be used for scrapping
 var examListURL = "https://stdportal.emu.edu.tr/examlist.asp"
@@ -69,9 +70,10 @@ func SearchExamsHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	exams := allExams.Find(courses)
+	exams.SortByDate(true)
 	exams.PrintExams()
 
-	respBody, err := exams.ToJSON()
+	respBody, err := exams.ToResponse().ToJSON()
 	if err != nil {
 		reply(w, nil, http.StatusInternalServerError, err)
 		return
@@ -116,10 +118,14 @@ func scrapExams() entity.Exams {
 					return true
 				}
 
+				fullDate, err := time.Parse(dateLayout, dates[tdIdx]+" "+periods[tableIdx-1])
+				if err != nil {
+					fmt.Println(err)
+				}
+
 				entry := entity.Exam{
-					Period: periods[tableIdx-1],
 					Course: cCode,
-					Date:   dates[tdIdx],
+					Date:   fullDate,
 				}
 				data = append(data, entry)
 				return true
