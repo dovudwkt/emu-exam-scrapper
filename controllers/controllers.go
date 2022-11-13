@@ -14,15 +14,12 @@ import (
 	"github.com/dovudwkt/emu-exam-scrapper/entity"
 )
 
-const examsFileName = "allExams.json"
+const examsFileName = "data/allExams.json"
 
 var examPeriodRegexp = regexp.MustCompile(`(?m)[P|p]eriod\s*:\s*(\d+:\d+)`)
 
-var (
-
-	// URL to be used for scrapping
-	targetURL = "https://stdportal.emu.edu.tr/examlist.asp"
-)
+// URL to be used for scrapping
+var examListURL = "https://stdportal.emu.edu.tr/examlist.asp"
 
 func ImportExamsHandler(w http.ResponseWriter, r *http.Request) {
 	allExams := scrapExams()
@@ -68,7 +65,7 @@ func scrapExams() entity.Exams {
 	dates := []string{}
 	periods := []string{}
 
-	doc, err := parseURL(targetURL)
+	doc, err := parseURL(examListURL)
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -85,28 +82,30 @@ func scrapExams() entity.Exams {
 
 	doc.Find("table").Each(func(tableIdx int, tableNode *goquery.Selection) {
 		if tableIdx == 0 {
+			// Fetch exam dates.
 			tableNode.Find("tbody tr td font").Each(func(j int, dateStr *goquery.Selection) {
 				dates = append(dates, strings.TrimSpace(dateStr.Text()))
 			})
-		} else {
-			tableNode.Find("tbody tr").EachWithBreak(func(trIdx int, tr *goquery.Selection) bool {
-				tr.Find("td font").EachWithBreak(func(tdIdx int, courseCode *goquery.Selection) bool {
-					cCode := strings.TrimSpace(courseCode.Text())
-					if cCode == "" {
-						return true
-					}
+			return
+		}
 
-					entry := entity.Exam{
-						Period: periods[tableIdx-1],
-						Course: cCode,
-						Date:   dates[tdIdx],
-					}
-					data = append(data, entry)
+		tableNode.Find("tbody tr").EachWithBreak(func(trIdx int, tr *goquery.Selection) bool {
+			tr.Find("td font").EachWithBreak(func(tdIdx int, courseCode *goquery.Selection) bool {
+				cCode := strings.TrimSpace(courseCode.Text())
+				if cCode == "" {
 					return true
-				})
+				}
+
+				entry := entity.Exam{
+					Period: periods[tableIdx-1],
+					Course: cCode,
+					Date:   dates[tdIdx],
+				}
+				data = append(data, entry)
 				return true
 			})
-		}
+			return true
+		})
 	})
 
 	return data
