@@ -7,8 +7,10 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 	"regexp"
 	"strings"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/dovudwkt/emu-exam-scrapper/entity"
@@ -41,6 +43,24 @@ func SearchExamsHandler(w http.ResponseWriter, r *http.Request) {
 	coursesURI := r.URL.Query().Get("courses")
 	coursesURI = strings.TrimSpace(strings.ToUpper(coursesURI))
 	courses := strings.Split(coursesURI, ",")
+
+	// Fetch data first if it's not up to date.
+	stat, err := os.Stat(examsFileName)
+	if err != nil {
+		reply(w, nil, http.StatusInternalServerError, err)
+	}
+	threeMonthAgo := time.Now().AddDate(0, -3, 0)
+	if stat.ModTime().Before(threeMonthAgo) {
+		allExams := scrapExams()
+		if len(allExams) > 100 {
+			err := allExams.SaveJSON(examsFileName)
+			if err != nil {
+				err = errors.New("error saving exams: " + err.Error())
+				reply(w, nil, http.StatusInternalServerError, err)
+				return
+			}
+		}
+	}
 
 	allExams, err := ParseJSON(examsFileName)
 	if err != nil {
